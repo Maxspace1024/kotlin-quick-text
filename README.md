@@ -1,6 +1,6 @@
 # kotlin-quick-text
 
-<img src"https://github.com/Maxspace1024/kotlin-quick-text/blob/master/img/img_1.png" width="150"/>
+<img src="https://github.com/Maxspace1024/kotlin-quick-text/blob/master/img/img_1.png" width="150"/>
 
 ## 使用說明
 1. 在電腦執行server端程式
